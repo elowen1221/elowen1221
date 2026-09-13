@@ -20,3 +20,6 @@
 
 <br>
 
+<div align="center">
+  <img src="./assets/footer.svg" width="100%" alt="" />
+</div>

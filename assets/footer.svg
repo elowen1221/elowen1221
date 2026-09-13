@@ -1,0 +1,7 @@
+<svg width="900" height="92" viewBox="0 0 900 92" xmlns="http://www.w3.org/2000/svg">
+<style>.line{fill:none;stroke:#c3cbd3;stroke-width:1;stroke-linecap:round;stroke-linejoin:round}.dot{fill:#929eaa}@media(prefers-color-scheme:dark){.line{stroke:#505b67}.dot{fill:#788593}}</style>
+<line class="line" x1="356" y1="49" x2="430" y2="49" opacity=".45"/>
+<circle class="dot" cx="450" cy="49" r="2.3" opacity=".72"/>
+<line class="line" x1="470" y1="49" x2="544" y2="49" opacity=".45"/>
+<path class="line" d="M450 49 C458 39 463 28 462 16 M458 34 C446 32 443 24 457 25 M461 27 C473 21 477 25 464 33" opacity=".58"/>
+</svg>
