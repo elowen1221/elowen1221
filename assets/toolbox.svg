@@ -1,0 +1,14 @@
+<svg width="900" height="96" viewBox="0 0 900 96" xmlns="http://www.w3.org/2000/svg">
+<style>.name{font:400 11px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;fill:#66717d}.mark{fill:none;stroke:#8d99a6;stroke-width:1.2;stroke-linecap:round;stroke-linejoin:round}.sep{stroke:#dce1e6;stroke-width:1}@media(prefers-color-scheme:dark){.name{fill:#aab2bc}.mark{stroke:#919dab}.sep{stroke:#3b434d}}</style>
+<g transform="translate(25 28)"><path class="mark" d="M0 12 C0 3 18 3 18 10 C18 17 6 13 6 20 C6 27 24 27 24 18"/><circle cx="7" cy="8" r="1.3" fill="#8d99a6"/><text class="name" x="34" y="18">Python</text></g>
+<line class="sep" x1="160" y1="23" x2="160" y2="67"/>
+<g transform="translate(190 28)"><path class="mark" d="M0 21 L11 4 L22 21 M5 14 H17"/><text class="name" x="34" y="18">PyTorch</text></g>
+<line class="sep" x1="325" y1="23" x2="325" y2="67"/>
+<g transform="translate(355 28)"><path class="mark" d="M2 6 V23 M8 10 V23 M14 3 V23 M20 13 V23 M0 23 H23"/><text class="name" x="34" y="18">FastAPI</text></g>
+<line class="sep" x1="490" y1="23" x2="490" y2="67"/>
+<g transform="translate(520 28)"><path class="mark" d="M3 5 L20 22 M3 5 L10 5 M3 5 L3 12 M20 22 L13 22 M20 22 L20 15"/><text class="name" x="34" y="18">Git</text></g>
+<line class="sep" x1="625" y1="23" x2="625" y2="67"/>
+<g transform="translate(655 28)"><path class="mark" d="M2 20 H22 M5 20 V8 L12 3 L19 8 V20"/><text class="name" x="34" y="18">Linux</text></g>
+<line class="sep" x1="760" y1="23" x2="760" y2="67"/>
+<g transform="translate(790 28)"><path class="mark" d="M2 8 L9 15 L2 22 M13 22 H23"/><text class="name" x="34" y="18">Termux</text></g>
+</svg>

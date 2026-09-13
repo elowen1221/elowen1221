@@ -15,7 +15,7 @@
 
 ### Toolbox
 
-<p><img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,git,linux,vscode&theme=light" height="34" alt="Python, PyTorch, FastAPI, Git, Linux, VS Code" /></p>
+<img src="./assets/toolbox.svg" width="100%" alt="Toolbox: Python, PyTorch, FastAPI, Git, Linux, Termux" />
 
 
 <br>
