@@ -1,15 +1,14 @@
-<svg width="900" height="210" viewBox="0 0 900 210" xmlns="http://www.w3.org/2000/svg">
-  <rect width="900" height="210" rx="10" fill="#202936"/>
-  <style>
-    .title{font:500 25px Georgia,serif;fill:#eef2f6;letter-spacing:.8px}.small{font:400 10px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;fill:#aeb8c5;letter-spacing:1.6px}.line{fill:none;stroke:#8190a2;stroke-width:1;opacity:.55}.dot{fill:#d8e0e8}.faint{fill:#7f8c9c;opacity:.5}
-  </style>
-  <text class="title" x="44" y="72">Nocturne</text>
-  <text class="small" x="46" y="101">MEMORY · CONTEXT · CONTINUITY</text>
-  <line class="line" x1="46" y1="126" x2="212" y2="126" opacity=".35"/>
-  <text class="small" x="46" y="153">LONG-TERM MEMORY FOR LLM AGENTS</text>
-  <path class="line" d="M390 139 C438 115 457 72 508 88 S584 145 633 106 S704 48 765 75 S822 119 860 93"/>
-  <path class="line" d="M508 88 L548 52 L594 66 M633 106 L674 79 L716 91" opacity=".35"/>
-  <circle class="dot" cx="390" cy="139" r="3"/><circle class="dot" cx="508" cy="88" r="5"/><circle class="dot" cx="633" cy="106" r="4"/><circle class="dot" cx="765" cy="75" r="5"/><circle class="dot" cx="860" cy="93" r="2.5"/>
-  <circle class="faint" cx="548" cy="52" r="2"/><circle class="faint" cx="594" cy="66" r="2.5"/><circle class="faint" cx="674" cy="79" r="2"/><circle class="faint" cx="716" cy="91" r="2"/>
-  <circle class="line" cx="765" cy="75" r="19" opacity=".25"/><circle class="line" cx="765" cy="75" r="34" opacity=".12"/>
+<svg width="900" height="190" viewBox="0 0 900 190" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="190" rx="10" fill="#202936"/>
+  <style>.title{font:500 25px Georgia,serif;fill:#eef2f6;letter-spacing:.8px}.small{font:400 10px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;fill:#aeb8c5;letter-spacing:1.6px}.line{fill:none;stroke:#8190a2;stroke-width:1;opacity:.48}.dot{fill:#d8e0e8}.leaf{fill:none;stroke:#708094;stroke-width:1;opacity:.34}</style>
+  <text class="small" x="34" y="31">01</text>
+  <text class="title" x="54" y="82">Nocturne</text>
+  <text class="small" x="56" y="109">PERSISTENT MEMORY FOR LLM AGENTS</text>
+  <line class="line" x1="56" y1="132" x2="218" y2="132" opacity=".32"/>
+  <text class="small" x="710" y="63">MEMORY</text><text class="small" x="710" y="86">CONTEXT</text><text class="small" x="710" y="109">CONTINUITY</text>
+  <ellipse class="line" cx="500" cy="94" rx="148" ry="42" transform="rotate(-9 500 94)"/>
+  <ellipse class="line" cx="500" cy="94" rx="104" ry="67" transform="rotate(13 500 94)" opacity=".26"/>
+  <circle class="dot" cx="381" cy="111" r="3"/><circle class="dot" cx="455" cy="63" r="4"/><circle class="dot" cx="543" cy="126" r="3"/><circle class="dot" cx="622" cy="75" r="4"/>
+  <path class="leaf" d="M18 168 C31 148 35 126 29 104 M29 136 C12 130 10 115 29 116 M31 126 C49 117 50 101 32 108 M25 153 C10 151 6 140 24 140"/>
+  <path class="leaf" d="M882 174 C868 153 866 132 872 112 M870 145 C852 139 850 125 870 126 M870 135 C889 126 891 111 872 117"/>
 </svg>
