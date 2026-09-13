@@ -14,6 +14,13 @@ Structured memory units, hierarchical recall, lifecycle management, provenance-p
 
 `Python` · `MCP` · `OAuth` · `Retrieval` · `LLM Memory`
 
+<a href="https://github.com/elowen1221/termux-mcp"><img src="./assets/termux-card.svg" width="100%" alt="Termux-MCP — MCP tools on Android" /></a>
+
+**[Termux-MCP](https://github.com/elowen1221/termux-mcp)**
+<sub>MCP tools and shell access on an Android device.</sub>
+
+`Android` · `MCP` · `Shell` · `Automation`
+
 ### Current threads
 
 - memory + recall — long-running agent memory architectures
