@@ -11,9 +11,7 @@
 
 ### Current threads
 
-- memory + recall — long-running agent memory architectures
-- RAG — domain-specific retrieval and application workflows
-- MCP — lightweight tools and agent infrastructure
+<img src="./assets/threads.svg" width="100%" alt="Current threads: memory and recall, RAG, MCP" />
 
 ### Toolbox
 
