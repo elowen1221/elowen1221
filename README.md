@@ -14,15 +14,14 @@ Structured memory units, hierarchical recall, lifecycle management, provenance-p
 
 ### Current threads
 
-- designing memory and recall architectures that remain useful over long-running conversations
-- exploring domain-specific RAG and AI application workflows
-- building MCP-based tools and lightweight agent infrastructure
+- memory + recall — long-running agent memory architectures
+- RAG — domain-specific retrieval and application workflows
+- MCP — lightweight tools and agent infrastructure
 
-### Tools I reach for
+### Toolbox
 
 <p><img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,git,linux,vscode&theme=light" height="34" alt="Python, PyTorch, FastAPI, Git, Linux, VS Code" /></p>
 
-<sub>Also working with MCP, RAG, OAuth, retrieval systems, and whatever else the project happens to demand.</sub>
 
 <br>
 
