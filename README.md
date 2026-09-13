@@ -12,7 +12,7 @@ Structured memory units, hierarchical recall, lifecycle management, provenance-p
 
 `Python` · `MCP` · `OAuth` · `Retrieval` · `LLM Memory`
 
-### In progress
+### Current threads
 
 - designing memory and recall architectures that remain useful over long-running conversations
 - exploring domain-specific RAG and AI application workflows
