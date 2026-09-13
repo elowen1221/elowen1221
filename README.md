@@ -2,9 +2,6 @@
   <img src="./assets/header.svg" width="100%" alt="Elowen — AI applications, agent infrastructure, memory systems" />
 </div>
 
-I build small AI systems around a question I keep returning to: **what does a model need beyond the model itself?**
-
-Right now that means long-term memory, retrieval, tool use, agent infrastructure, and the less glamorous engineering required to make them actually work together.
 
 ### Selected work
 
