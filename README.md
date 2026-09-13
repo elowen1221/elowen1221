@@ -5,6 +5,8 @@
 
 ### Selected work
 
+<a href="https://github.com/elowen1221/Nocturne"><img src="./assets/nocturne-card.svg" width="100%" alt="Nocturne — long-term memory for LLM agents" /></a>
+
 **[Nocturne](https://github.com/elowen1221/Nocturne)**  
 <sub>Long-term memory infrastructure for LLM agents.</sub>
 
