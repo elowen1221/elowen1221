@@ -1,43 +1,32 @@
 <div align="center">
-
-# Elowen
-
-**Artificial Intelligence · AI Applications · Agent Infrastructure**
-
-Building practical AI systems, with a current focus on long-term memory, RAG, MCP, and agent-oriented applications.
-
+  <img src="./assets/header.svg" width="100%" alt="Elowen — AI applications, agent infrastructure, memory systems" />
 </div>
 
----
+I build small AI systems around a question I keep returning to: **what does a model need beyond the model itself?**
 
-### About
-
-I'm an Artificial Intelligence student interested in turning model capabilities into systems that are useful beyond a single prompt or session.
-
-My current work focuses on **AI applications**, **agent infrastructure**, **retrieval and memory systems**, and **RAG**. I care about system structure, maintainability, and making AI components work reliably together in real environments.
+Right now that means long-term memory, retrieval, tool use, agent infrastructure, and the less glamorous engineering required to make them actually work together.
 
 ### Selected work
 
-#### Nocturne
-*A provenance-preserving long-term memory engine for LLM agents.*
+**[Nocturne](https://github.com/elowen1221/Nocturne)**  
+<sub>Long-term memory infrastructure for LLM agents.</sub>
 
-A long-term memory system designed around structured memory units, hierarchical recall, lifecycle management, and controlled maintenance. It currently supports remote MCP access with OAuth-protected authentication and is evolving toward richer memory organization and recall workflows.
+Structured memory units, hierarchical recall, lifecycle management, provenance-preserving storage, and controlled maintenance — exposed to agents through an OAuth-protected MCP interface.
 
 `Python` · `MCP` · `OAuth` · `Retrieval` · `LLM Memory`
 
-### Currently exploring
+### In progress
 
-- Long-term memory and recall architectures for AI agents
-- Retrieval-Augmented Generation for domain-specific applications
-- MCP-based tool and agent infrastructure
-- Practical AI application engineering
+- designing memory and recall architectures that remain useful over long-running conversations
+- exploring domain-specific RAG and AI application workflows
+- building MCP-based tools and lightweight agent infrastructure
 
-### Toolbox
+### Tools I reach for
 
-`Python` · `PyTorch` · `FastAPI` · `Git` · `Linux` · `MCP` · `RAG`
+<p><img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,git,linux,vscode&theme=light" height="34" alt="Python, PyTorch, FastAPI, Git, Linux, VS Code" /></p>
 
----
+<sub>Also working with MCP, RAG, OAuth, retrieval systems, and whatever else the project happens to demand.</sub>
 
-<div align="center">
-<sub>Building small systems carefully, then letting them grow.</sub>
-</div>
+<br>
+
+<div align="center"><sub>small systems, carefully grown.</sub></div>

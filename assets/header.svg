@@ -1,0 +1,15 @@
+<svg width="900" height="150" viewBox="0 0 900 150" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .title { font: 500 30px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #40454d; letter-spacing: 3px; }
+    .sub { font: 400 12px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; fill: #7b818a; letter-spacing: 1.2px; }
+    .line { stroke: #b8bdc5; stroke-width: 1; fill: none; opacity: .62; }
+    .dot { fill: #858c96; opacity: .72; }
+    @media (prefers-color-scheme: dark) { .title { fill: #d8dbe0; } .sub { fill: #969da7; } .line { stroke: #68717d; } .dot { fill: #a6adb7; } }
+  </style>
+  <line class="line" x1="26" y1="28" x2="874" y2="28"/>
+  <text class="title" x="34" y="82">ELOWEN</text>
+  <text class="sub" x="36" y="108">AI APPLICATIONS · AGENT INFRASTRUCTURE · MEMORY SYSTEMS</text>
+  <path class="line" d="M666 89 L716 57 L760 76 L810 44 L861 61"/>
+  <circle class="dot" cx="666" cy="89" r="3"/><circle class="dot" cx="716" cy="57" r="4"/><circle class="dot" cx="760" cy="76" r="2.5"/><circle class="dot" cx="810" cy="44" r="4"/><circle class="dot" cx="861" cy="61" r="2.5"/>
+  <line class="line" x1="26" y1="130" x2="874" y2="130"/>
+</svg>
