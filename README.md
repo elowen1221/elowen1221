@@ -26,4 +26,3 @@ Structured memory units, hierarchical recall, lifecycle management, provenance-p
 
 <br>
 
-<div align="center"><sub>small systems, carefully grown.</sub></div>
